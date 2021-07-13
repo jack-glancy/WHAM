@@ -1,7 +1,6 @@
 import sys
 
 # define inital x coord value
-
 x = 1.48
 xinc = 0.1
 nwin = 17
