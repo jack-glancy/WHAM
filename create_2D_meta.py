@@ -1,11 +1,11 @@
 import sys
 
-# define inital x coord value
+# define inital x coord value and x increment
 
 x = 1.48
 xinc = 0.1
 
-# define initial y coord value
+# define initial y coord value and y increment
 
 y = 3.90
 yinc = -0.15
